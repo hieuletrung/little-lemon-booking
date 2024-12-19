@@ -1,5 +1,5 @@
 import React from 'react';
-import restaurant from './img/restaurant.jpg';
+import restaurant from './img/restauranfood.jpg';
 
 function Main() {
   return (
